@@ -377,7 +377,7 @@ Give the agent this document and a prompt like the one below. Replace the placeh
 
 ```text
 You are cleaning up an Android TV over ADB. The TV is at <TV_IP>:5555 and the
-procedure to follow is in ANDROID-TV-DEBLOAT-KODAK-PATH7XPRO.md in this repo.
+procedure to follow is the guide in this repo (README.md).
 
 Rules you must follow for the whole session:
 1. NEVER run `pm uninstall`, `pm uninstall --user 0`, or anything requiring root.
